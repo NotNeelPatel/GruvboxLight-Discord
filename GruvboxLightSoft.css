@@ -13,6 +13,7 @@
 */
 
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url('https://fonts.cdnfonts.com/css/fantasque-sans-mono');
 
 :root {
   --accentcolor: 152,151,26;
@@ -25,7 +26,7 @@
   --textdark: 80,73,69;
   --textdarker: 60,56,54;
   --textdarkest: 60, 56, 54;
-  --font: Fantastasque Sans Mono; 
+  --font: 'Fantastasque Sans Mono'; 
   --backgroundaccent: 213,196,161;
   --backgroundprimary: 242,229,188;
   --backgroundsecondary: 235,219,178;
