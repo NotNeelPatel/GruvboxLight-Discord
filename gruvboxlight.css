@@ -1,5 +1,5 @@
 /**
- * @name gruvboxLight
+ * @name GruvboxLight
  * @description Allows you to customize Discord's native Color Scheme.
  * @author DevilBro
  * @version 1.0.0
@@ -12,26 +12,26 @@
  * @BDEditor DiscordRecolor
 */
 
-@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 @import url('https://fonts.cdnfonts.com/css/fantasque-sans-mono');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
 
 :root {
-  --accentcolor: 152,151,26;
+  --accentcolor: 66,123,88;
   --accentcolor2: 19,244,3;
   --linkcolor: 69,133,136;
   --mentioncolor: 244,67,54;
-  --textbrightest: 124,111,100;
-  --textbrighter: 124,111,100;
+  --textbrightest: 40,40,40;
+  --textbrighter: 40,40,40;
   --textbright: 102,92,84;
   --textdark: 80,73,69;
-  --textdarker: 60,56,54;
-  --textdarkest: 60, 56, 54;
-  --font: 'Fantasque Sans Mono'; 
+  --textdarker: 102,92,84;
+  --textdarkest: 124,111,100;
+  --font: 'Fantasque Sans Mono';
   --backgroundaccent: 213,196,161;
   --backgroundprimary: 242,229,188;
   --backgroundsecondary: 235,219,178;
   --backgroundsecondaryalt: 252,241,199;
-  --backgroundtertiary: 242,229,188;
+  --backgroundtertiary: 189,174,146;
   --backgroundfloating: 213,196,161;
   --settingsicons: 1;
 }
