@@ -24,8 +24,9 @@
   --textbrighter: 124,111,100;
   --textbright: 102,92,84;
   --textdark: 80,73,69;
-  --textdarker: 60,56,54;
-  --textdarkest: 60, 56, 54;
+  --textdarker: 46,41,40;
+  --textdarkest: 45, 41, 40;
+  /* 60, 56, 54;*/
   --font: 'Fantasque Sans Mono'; 
   --backgroundaccent: 213,196,161;
   --backgroundprimary: 242,229,188;
